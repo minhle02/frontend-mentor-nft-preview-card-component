@@ -19,7 +19,7 @@ and units are relatively calculated with respect to the default font-size.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [github.com/minhle02/frontend-mentor-nft-preview-card-component](https://github.com/minhle02/frontend-mentor-nft-preview-card-component)
 
 ### Built with
 
