@@ -28,7 +28,7 @@ and units are relatively calculated with respect to the default font-size.
 - Flexbox
 - Relative positioning/sizing
 
-## Author
+# Author
 - Github - [@minhle02](https://github.com/minhle02)
 
 
